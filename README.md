@@ -1,7 +1,7 @@
 ## Olá! eu sou Arthur de Oliveira, bem vindo!
 
-- 🔭 Hoje estudo para trabalhar em back-end 
-- 🌱 Estudo Javascript  
+- 🔭 Estudante de engenharia de controle e automação
+- 🌱 Estudo Javascript, Python e Ladder  
 - 📫 Email para contato: arthurdeoliveiraengen@gmail.com 
 - 😄 Pronomes: Ele/Dele 
 
