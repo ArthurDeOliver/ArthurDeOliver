@@ -1,7 +1,8 @@
 ## Olá! eu sou Arthur de Oliveira, bem vindo!
 
 - 🔭 Estudante de engenharia de controle e automação
-- 🌱 Estudo Javascript, Python e Ladder  
+- 🌱 Estudo Python e Ladder  
+- 🌱 Faço curso de programação voltado a ciência de dados
 - 📫 Email para contato: arthurdeoliveiraengen@gmail.com 
 - 😄 Pronomes: Ele/Dele 
 
