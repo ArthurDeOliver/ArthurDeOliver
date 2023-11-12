@@ -1,11 +1,10 @@
-## Olá! eu sou Arthur de Oliveira, bem vindo!
+## Hello! I am Arthur de Oliveira, welcome!
 
-- 🔭 Estudante 
+- 🔭 Student of Systems Analysis and Development.
 - 🌱 Estudo Javascript, HTML e CSS
-- 📫 Email para contato: arthurdeoliveiradev@gmail.com 
-- 😄 Pronomes: Ele/Dele 
+- 📫 Email: arthurdeoliveiradev@gmail.com 
 
-## Tecnologias que eu uso no meu dia
+## Technologies that I use in my day
 
 <div style="display: inline_block">
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
