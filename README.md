@@ -2,7 +2,7 @@
 
 - 🔭 Estudante 
 - 🌱 Estudo Javascript, HTML e CSS
-- 📫 Email para contato: arthurdeoliveiraengen@gmail.com 
+- 📫 Email para contato: arthurdeoliveiradev@gmail.com 
 - 😄 Pronomes: Ele/Dele 
 
 ## Tecnologias que eu uso no meu dia
