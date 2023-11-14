@@ -1,7 +1,7 @@
 ## Hello! I am Arthur de Oliveira, welcome!
 
 - 🔭 Student of Systems Analysis and Development.
-- 🌱 Javascript, HTML e CSS
+- 🌱 Python, Javascript, HTML and CSS
 - 📫 Email: arthurdeoliveiradev@gmail.com 
 
 ## Technologies that I use in my day
