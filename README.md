@@ -1,7 +1,7 @@
 ## Hello! I am Arthur de Oliveira, welcome!
 
 - 🔭 Student of Systems Analysis and Development;
-- 🖥️ Backend Developer;
+- 🖥️ Fullstack Developer;
 - 🌱 ReactJs, NodeJs, Javascript, HTML and CSS;
 - 📫 Email: arthurdeoliveiradev@gmail.com 
 
