@@ -2,7 +2,7 @@
 
 - 🔭 Student of Systems Analysis and Development;
 - 🖥️ Backend Developer;
-- 🌱 NodeJs, Javascript, HTML and CSS;
+- 🌱 ReactJs, NodeJs, Javascript, HTML and CSS;
 - 📫 Email: arthurdeoliveiradev@gmail.com 
 
 ## Technologies that i use in my day
