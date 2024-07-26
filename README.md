@@ -2,7 +2,7 @@
 
 - 🔭 Student of Systems Analysis and Development;
 - 🖥️ Fullstack Developer;
-- 🌱 ReactJs, NodeJs, Javascript, HTML and CSS;
+- 🌱 ReactJs, NodeJs, Javascript, Typescript, HTML and CSS;
 - 📫 Email: arthurdeoliveiradev@gmail.com 
 
 ## Technologies that i use in my day
