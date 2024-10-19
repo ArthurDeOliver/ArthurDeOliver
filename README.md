@@ -7,7 +7,7 @@
 
 ## Technologies that i use in my day
 
-<div style="display: flex; gap: 5px; flex-wrap: wrap;">
+<div style="display: flex; gap: 5px;>
   <img  align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img aling="center" alt="next" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
   <img  align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
