@@ -1,8 +1,8 @@
 ## Hello! I am Arthur de Oliveira, welcome!
 
 - 🔭 Student of Systems Analysis and Development;
-- 🖥️ FrontEnd Developer;
-- 🌱 ReactJs, Next, Typescript, HTML and CSS;
+- 🖥️ Web Developer;
+- 🌱 Typescript, ReactJs, Next, Node, Express, HTML and CSS;
 - 📫 Email: arthurdeoliveiradev@gmail.com 
 
 ## Technologies that i use in my day
